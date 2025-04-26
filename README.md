@@ -1,7 +1,7 @@
 # Catálogo Sísmico 1960 - 2023
 
 <p align="center">
-  <img src="gif-de-presentacion/comp-3.gif" alt="Demo Dashboard Sísmico" width="700"/>
+  <img src="gif-de-presentacion/Comp-3.gif" alt="Demo Dashboard Sísmico" width="700"/>
 </p>
 
 Un catálogo sísmico es una base de datos que contiene todos los parámetros que caracterizan a un sismo, calculados en las mismas condiciones, con el objetivo de constituirse como una base homogénea útil para la realización de estudios en sismología. El presente catálogo ha sido elaborado por el Instituto Geofísico del Perú (IGP), institución responsable del monitoreo de la actividad sísmica en el país, y contiene todos aquellos sismos percibidos por la población y registrados por la Red Sísmica Nacional desde 1960, fecha en la que se inicia la vigilancia instrumental de la sismicidad en el Perú.
